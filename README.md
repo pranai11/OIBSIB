@@ -22,4 +22,10 @@ Trained it with Decision Tree Classification and also got same results.
 
 ========================================================================================
 
-# Task-2:
+# Task-2: Car Price Prediction
+
+Car price prediction refers to the use of statistical and machine learning models to estimate the selling price of automobiles. It is a critical task in the automotive industry, helping buyers and sellers make informed decisions. This prediction relies on various factors, including the car's specifications, market trends, and historical data.
+
+Here we used Random Forest Machine Learning Algorithm as the data set contains various dataitems of different categories.
+
+We had used pandas dummies to replace the string data items with integers and applied randomforest algorithm and findout the accuracy using some tools like mean suared error, mean absolute error and r2_score.
