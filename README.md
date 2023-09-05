@@ -29,3 +29,13 @@ Car price prediction refers to the use of statistical and machine learning model
 Here we used Random Forest Machine Learning Algorithm as the data set contains various dataitems of different categories.
 
 We had used pandas dummies to replace the string data items with integers and applied randomforest algorithm and findout the accuracy using some tools like mean suared error, mean absolute error and r2_score.
+
+========================================================================================
+
+# Task-3: Sales Prediction
+
+Sales prediction is a crucial aspect of any business, as it enables companies to make informed decisions regarding marketing strategies, resource allocation, and revenue forecasting. In this analysis, we use historical data on advertising budgets for TV, Radio, and Newspaper to predict product sales. We employ machine learning techniques to build models that can provide accurate sales predictions.
+
+Here we used Linear Regression Models for individual data items like Newspaper vs Sales and TV vs Sales etc. Next we applied RandomForest and LogisticRegression which lead us to great results with best accuracy than LinearRegression models.
+
+As evaluation metrics we used mean square error and r2_score.
